@@ -1,1 +1,8 @@
 연습
+
+
+solidity 설치
+
+remix 설치
+
+Pinda 를 이용해서 NFT 만들기
